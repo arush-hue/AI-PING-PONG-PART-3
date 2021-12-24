@@ -1,0 +1,43 @@
+.headign
+{
+    font-size: 23px;
+    width: 100%;
+}
+#start,#status
+{
+    font-size: 22px;
+}
+#canvas
+{
+    text-align: center;
+}
+.modal-dialog
+{
+    width: 90%;
+}
+.headign button
+{
+    float: right;
+}
+.headign h3
+{
+    float: left;
+    display: inline;
+}
+#div_footer
+{
+    position: fixed;
+    color: gray;
+    width: 100%;
+    bottom: 0px;
+    background-color: honeydew;
+    line-height: 3;
+    text-align: center;
+}
+#canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top:130px;
+    box-sizing: 5px 5px 5px grey;
+}
